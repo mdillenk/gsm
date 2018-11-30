@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 	"strings"
-	"nathealth/services/FTDIServices"
-	"nathealth/services/ISerialServices"
+	"github.com/mdillenk/gsm/src/nathealth/services/FTDIServices"
+	"github.com/mdillenk/gsm/src/nathealth/services/ISerialServices"
 )
 
 
